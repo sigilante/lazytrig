@@ -1,8 +1,8 @@
 ::  Transcendental functions library for Hoon, compatible with @rs
-::=/  pi   .3.1415926535
-::=/  tau  (mul:rs pi .2)
-::=/  e    .2.718281828
-::=/  rtol  .1e-5
+=/  tau  .6.28318530717
+=/  pi   .3.14159265358
+=/  e    .2.718281828
+=/  rtol  .1e-5
 |%
 ++  factorial
   |=  x=@rs  ^-  @rs
