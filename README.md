@@ -22,3 +22,5 @@ Currently defines:
 - log-e
 - pow-n (for integers only)
 - pow (using logs)
+
+Tau has been given primacy of place over pi in the definitions, [and you should do so too](https://tauday.com/tau-manifesto).
