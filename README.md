@@ -1,5 +1,9 @@
 # lazytrig
 
+<div class="alert alert-primary" role="alert">
+  This library is superseded by [Saloon](https://github.com/sigilante/saloon).
+</div>
+
 A quick-and-dirty trig library in @rs for Urbit.
 
 Copy these into your pier and use them as follows:
