@@ -1,8 +1,6 @@
 # lazytrig
 
-<div class="alert alert-primary" role="alert">
-  This library is superseded by [Saloon](https://github.com/sigilante/saloon).
-</div>
+**This library is superseded by [Saloon](https://github.com/sigilante/saloon).**
 
 A quick-and-dirty trig library in @rs for Urbit.
 
